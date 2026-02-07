@@ -30,7 +30,7 @@ Watch the promo video <a href="https://www.youtube.com/watch?v=ghD5H9TF9sU&ab_ch
 Open CMD where you want to clone the project & run the following commands
 
 ```
-git clone https://github.com/mhmzdev/The_Holy_Quran_App.git
+git clone https://github.com/SIFAT5673/Holy-Qur-an-App.git
 cd The_Holy_Quran_App
 flutter packages get
 flutter run
